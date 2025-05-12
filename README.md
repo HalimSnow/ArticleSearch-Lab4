@@ -1,4 +1,4 @@
-# Android Project 1 - *Article Seach - Lab 4*
+# Android Lab 4 - *Article Seach - Lab 4*
 
 Submitted by: **Abdul-Halim Tiberino**
 
